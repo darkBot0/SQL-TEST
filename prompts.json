@@ -1,0 +1,810 @@
+{
+  "variant_sets": {
+    "ecom_products": [
+      "portable blender for smoothies",
+      "LED strip lights for bedrooms",
+      "ergonomic laptop stand",
+      "wireless charging station",
+      "pet hair remover brush",
+      "minimalist wallet (RFID)",
+      "insulated stainless steel water bottle",
+      "resistance bands set",
+      "smart posture corrector",
+      "silk sleep mask",
+      "hair growth serum",
+      "acne patch stickers",
+      "teeth whitening kit",
+      "kitchen air fryer accessories",
+      "non-slip yoga mat",
+      "car phone mount",
+      "noise-canceling sleep earbuds",
+      "baby milestone cards",
+      "reusable makeup remover pads",
+      "travel packing cubes",
+      "magnetic screen door",
+      "heated blanket",
+      "electric nail drill kit",
+      "anti-theft backpack",
+      "desk organizer set"
+    ],
+    "marketing_offers": [
+      "free trial for a SaaS tool",
+      "webinar registration for a B2B service",
+      "limited-time discount for an online course",
+      "bundle deal for skincare products",
+      "consultation booking for a marketing agency",
+      "waitlist signup for a new app",
+      "lead magnet for an email list",
+      "product launch announcement",
+      "upsell for a premium plan",
+      "renewal reminder for a subscription",
+      "Black Friday campaign",
+      "Valentine’s Day promotion",
+      "back-to-school offer",
+      "holiday gift guide campaign",
+      "referral program invitation",
+      "cart abandonment recovery",
+      "win-back campaign for churned users",
+      "feature announcement email",
+      "case study promotion",
+      "demo request campaign",
+      "early-bird pricing for an event",
+      "pre-order campaign",
+      "free shipping promotion",
+      "membership community invite",
+      "challenge signup (7-day)"
+    ],
+    "youtube_niches": [
+      "AI tools tutorials",
+      "beginner fitness at home",
+      "eCommerce case studies",
+      "personal finance for beginners",
+      "street food travel",
+      "Android productivity apps",
+      "coding interview prep",
+      "graphic design tips",
+      "freelancing for beginners",
+      "language learning hacks",
+      "minimalist living",
+      "home organization",
+      "gaming highlights",
+      "cinematic B-roll tutorials",
+      "productivity systems",
+      "small business marketing",
+      "music production basics",
+      "photography for beginners",
+      "cooking meal prep",
+      "mental health routines",
+      "tech reviews on a budget",
+      "history storytelling",
+      "science explainers",
+      "book summaries",
+      "motivation with practical steps"
+    ],
+    "dev_stacks": [
+      "Laravel + MySQL REST API",
+      "Node.js + Express API",
+      "Next.js full-stack app",
+      "React + TypeScript frontend",
+      "Vue 3 + Vite SPA",
+      "Django REST Framework",
+      "FastAPI + PostgreSQL",
+      "Spring Boot API",
+      "ASP.NET Core Web API",
+      "Go (Gin) microservice",
+      "GraphQL API design",
+      "Firebase + Cloud Functions",
+      "Android (Kotlin) app module",
+      "Dockerized deployment",
+      "Redis caching layer",
+      "Message queue with RabbitMQ",
+      "CI/CD with GitHub Actions",
+      "OAuth2 / OpenID Connect",
+      "WebSockets real-time feature",
+      "Stripe payments integration",
+      "S3-compatible file storage",
+      "Infrastructure as Code (Terraform)",
+      "Zero-trust API security",
+      "Observability (logs/metrics/traces)",
+      "Performance profiling plan"
+    ],
+    "design_projects": [
+      "SaaS landing page redesign",
+      "mobile onboarding flow",
+      "checkout page optimization",
+      "brand identity for a coffee shop",
+      "logo for a fintech startup",
+      "design system for a dashboard",
+      "pricing page layout",
+      "email newsletter template",
+      "social media ad creative set",
+      "YouTube thumbnail style guide",
+      "app icon and splash screen",
+      "product packaging label",
+      "pitch deck template",
+      "portfolio website layout",
+      "UI kit for a marketplace",
+      "typography and spacing scale",
+      "dark mode theme improvements",
+      "404 page illustration concept",
+      "hero section visual direction",
+      "wireframe for settings screens",
+      "product photo mockups",
+      "brand voice + visual tone",
+      "icon set for navigation",
+      "banner design for campaign",
+      "style guide documentation"
+    ],
+    "business_scenarios": [
+      "weekly team planning meeting",
+      "quarterly OKR planning",
+      "customer escalation handling",
+      "post-mortem after an outage",
+      "hiring plan for a small team",
+      "pricing strategy review",
+      "new feature prioritization",
+      "internal process documentation",
+      "stakeholder update memo",
+      "product roadmap communication",
+      "sales discovery call structure",
+      "support ticket macro library",
+      "cost reduction initiative",
+      "launch readiness checklist",
+      "partnership proposal draft",
+      "client onboarding workflow",
+      "KPI dashboard definition",
+      "team retro facilitation",
+      "decision-making framework",
+      "risk register creation",
+      "SOP for recurring task",
+      "performance review template",
+      "meeting notes standard",
+      "time management plan",
+      "cross-functional alignment plan"
+    ],
+    "freelance_services": [
+      "WordPress website build",
+      "Shopify store setup",
+      "logo design package",
+      "social media management",
+      "SEO audit and fixes",
+      "landing page copywriting",
+      "email marketing automation",
+      "short-form video editing",
+      "UI/UX redesign for an app",
+      "brand guidelines creation",
+      "Python automation script",
+      "data analysis dashboard",
+      "mobile app bug fixing",
+      "API integration service",
+      "content writing retainer",
+      "Google Ads campaign setup",
+      "Facebook ads creative testing",
+      "YouTube channel strategy",
+      "resume and LinkedIn optimization",
+      "pitch deck design",
+      "product photography direction",
+      "customer support setup",
+      "CRM setup and workflows",
+      "no-code MVP build",
+      "security review and hardening"
+    ],
+    "automation_use_cases": [
+      "lead capture to CRM workflow",
+      "invoice creation and reminders",
+      "customer support triage automation",
+      "content repurposing pipeline",
+      "daily KPI report to Slack",
+      "web scraping + alerting",
+      "appointment booking + follow-ups",
+      "abandoned cart recovery flow",
+      "new user onboarding messages",
+      "order tracking notifications",
+      "inventory low-stock alerts",
+      "review request automation",
+      "Uptime monitoring and paging",
+      "log aggregation and alerts",
+      "auto-tagging emails by intent",
+      "document generation from form data",
+      "social posts scheduling system",
+      "backup and restore automation",
+      "database cleanup job",
+      "data sync between tools",
+      "payment failure dunning flow",
+      "fraud flagging workflow",
+      "ETL pipeline with validation",
+      "server health checks",
+      "access provisioning automation"
+    ],
+    "social_platforms_topics": [
+      "Instagram Reels for a fitness coach",
+      "TikTok hooks for a skincare brand",
+      "LinkedIn posts for a B2B founder",
+      "X (Twitter) threads about AI tools",
+      "Facebook group engagement prompts",
+      "Pinterest pins for home decor",
+      "YouTube Shorts for productivity",
+      "Snapchat story ideas for travel",
+      "Reddit launch post for a SaaS",
+      "Quora answers for SEO leads",
+      "Discord community prompts",
+      "Telegram channel content plan",
+      "Threads app daily prompts",
+      "Instagram carousel for eCommerce",
+      "LinkedIn carousel for hiring",
+      "TikTok comment reply videos",
+      "X (Twitter) reply strategy",
+      "Facebook ads primary text angles",
+      "Instagram DM outreach scripts",
+      "LinkedIn DM warm outreach",
+      "TikTok live outline",
+      "YouTube Community posts",
+      "Pinterest SEO description ideas",
+      "Reddit AMAs preparation",
+      "WhatsApp broadcast message"
+    ],
+    "image_styles": [
+      "minimal product photo on seamless background",
+      "cinematic low-key lighting portrait",
+      "isometric 3D illustration",
+      "flat vector illustration",
+      "high-end luxury branding aesthetic",
+      "studio macro close-up",
+      "retro 90s magazine cover",
+      "futuristic neon cyberpunk scene",
+      "Japanese minimalist design style",
+      "hand-drawn sketch style",
+      "watercolor illustration",
+      "photorealistic lifestyle shot",
+      "moody film photography look",
+      "bright airy Scandinavian interior",
+      "bold typography poster",
+      "brutalist design layout",
+      "pixel art sprite",
+      "anime character style",
+      "claymation 3D style",
+      "vintage travel poster",
+      "editorial fashion shoot",
+      "product mockup on desk scene",
+      "top-down flat lay composition",
+      "surreal dreamlike landscape",
+      "tech UI hologram concept"
+    ],
+    "video_concepts": [
+      "30-second UGC testimonial ad",
+      "product demo with close-ups",
+      "cinematic brand story montage",
+      "explainer video with motion graphics",
+      "before/after transformation",
+      "talking head with b-roll overlays",
+      "screen recording tutorial",
+      "animated infographic video",
+      "short documentary mini-story",
+      "Instagram Reel hook-to-CTA format",
+      "TikTok trend adaptation",
+      "YouTube intro sequence",
+      "podcast clip highlight",
+      "event recap highlight reel",
+      "behind-the-scenes process video",
+      "customer case study video",
+      "app onboarding walkthrough",
+      "top 5 listicle video",
+      "myth-busting video",
+      "FAQ answer video series",
+      "unboxing and first impressions",
+      "comparison video A vs B",
+      "storytime narrative clip",
+      "educational micro-lesson",
+      "retention-focused chaptered video"
+    ],
+    "seo_topics": [
+      "best AI tools for small business",
+      "how to start dropshipping in 2026",
+      "email marketing automation checklist",
+      "Shopify SEO guide for beginners",
+      "YouTube SEO for new channels",
+      "local SEO for service businesses",
+      "content strategy for SaaS startups",
+      "keyword research workflow",
+      "technical SEO audit steps",
+      "on-page SEO for product pages",
+      "link building outreach templates",
+      "topic clusters explained",
+      "website speed optimization",
+      "schema markup for FAQs",
+      "writing blog posts that rank",
+      "SEO for multilingual websites",
+      "E-E-A-T improvements for blogs",
+      "SEO content refresh strategy",
+      "featured snippets optimization",
+      "SEO for affiliate websites",
+      "SEO for WordPress sites",
+      "SEO reporting dashboard",
+      "search intent mapping",
+      "internal linking best practices",
+      "SEO mistakes to avoid"
+    ]
+  },
+  "categories": [
+    {
+      "name": "eCommerce & Dropshipping",
+      "prompts": [
+        {
+          "title": "Winning Product Analysis: [product]",
+          "text": "Act as a senior eCommerce strategist. Analyze [product] for the US market. Provide: target audience, primary use case, key competitors, differentiation angles, pricing band, seasonality, potential objections, refund risks, and a go/no-go recommendation with reasoning.",
+          "expand": { "[product]": "ecom_products" }
+        },
+        {
+          "title": "Offer + Positioning Blueprint: [product]",
+          "text": "Create an irresistible offer for [product]. Include: core promise, unique mechanism, bundle ideas, bonuses, pricing strategy (3 tiers), risk reversal, urgency/scarcity ideas, and 5 headline options for ads and landing pages.",
+          "expand": { "[product]": "ecom_products" }
+        },
+        {
+          "title": "Product Page Copy (PDP) – Conversion Framework: [product]",
+          "text": "Write a high-converting product page for [product]. Include: hero headline, subheadline, 7 benefit bullets, 5 feature bullets, 'how it works' section, social proof placeholders, FAQ (8 Q/A), shipping & returns copy, and 3 CTA variants. Tone: premium and trustworthy.",
+          "expand": { "[product]": "ecom_products" }
+        },
+        {
+          "title": "Ad Angles Brainstorm (15 angles): [product]",
+          "text": "Brainstorm 15 distinct ad angles for [product]. For each angle include: hook line, pain point, unique benefit, proof idea, and CTA. Make angles non-repetitive (problem/solution, myth-bust, demo, comparison, social proof, scarcity, etc.).",
+          "expand": { "[product]": "ecom_products" }
+        },
+        {
+          "title": "Customer Avatar (ICP) Builder: [product]",
+          "text": "Build a customer avatar for [product]. Provide demographics, psychographics, daily routines, purchase motivations, top fears/objections, desired outcomes, language they use, and a 60-second brand message tailored to them.",
+          "expand": { "[product]": "ecom_products" }
+        },
+        {
+          "title": "Post‑Purchase Email Flow (7 emails): [product]",
+          "text": "Create a 7-email post-purchase flow for customers who bought [product]. Include: timing, subject lines, preview text, email goal, key talking points, cross-sell/up-sell idea, and a short email draft for each step.",
+          "expand": { "[product]": "ecom_products" }
+        },
+        {
+          "title": "Supplier + Logistics Due Diligence Checklist: [product]",
+          "text": "Create a supplier due diligence checklist for sourcing [product]. Include: quality control questions, sample evaluation steps, certifications, packaging requirements, labeling compliance, shipping options, incoterms, expected defect rate, and a negotiation script for better pricing and MOQs.",
+          "expand": { "[product]": "ecom_products" }
+        }
+      ]
+    },
+    {
+      "name": "Marketing & Copywriting",
+      "prompts": [
+        {
+          "title": "Value Proposition Refinement: [offer]",
+          "text": "Refine the value proposition for [offer]. Produce: one-liner, expanded positioning statement, 5 key benefits, 3 differentiators, and 10 headline variations. Include versions for: skeptical users, budget-conscious users, and premium buyers.",
+          "expand": { "[offer]": "marketing_offers" }
+        },
+        {
+          "title": "Landing Page Copy (AIDA + PAS): [offer]",
+          "text": "Write landing page copy for [offer] using both AIDA and PAS frameworks. Include: hero section, problem section, solution section, benefits, features, objections, testimonials placeholders, FAQ, and final CTA. Keep it concise and conversion-focused.",
+          "expand": { "[offer]": "marketing_offers" }
+        },
+        {
+          "title": "Email Sequence (5 steps): [offer]",
+          "text": "Create a 5-email sequence to promote [offer]. Provide: timing, subject lines, preview text, email goal, body copy (short), and CTA. Include one story email, one objection-handling email, and one scarcity email.",
+          "expand": { "[offer]": "marketing_offers" }
+        },
+        {
+          "title": "Ad Copy Variations (Meta/Google): [offer]",
+          "text": "Generate ad copy for [offer]. Output: 10 primary texts, 10 headlines, 10 descriptions, 5 CTAs, and 5 audience targeting hypotheses. Keep each variation distinct and testable.",
+          "expand": { "[offer]": "marketing_offers" }
+        },
+        {
+          "title": "Objection Handling Matrix: [offer]",
+          "text": "Create an objection-handling matrix for [offer]. List 12 common objections, the real underlying concern, best rebuttal, proof to add, and the safest CTA to use after addressing each objection.",
+          "expand": { "[offer]": "marketing_offers" }
+        },
+        {
+          "title": "Brand Voice Guide (1 page): [offer]",
+          "text": "Create a one-page brand voice guide for [offer]. Include: voice adjectives, do/don’t rules, signature phrases, banned words, writing examples (email, ad, landing page, customer support), and tone adjustments for complaints vs praise.",
+          "expand": { "[offer]": "marketing_offers" }
+        },
+        {
+          "title": "A/B Testing Plan (14 days): [offer]",
+          "text": "Design a 14-day A/B testing plan for [offer]. Include: hypothesis, primary KPI, test prioritization, sample sizing approach, test schedule, creative variations, landing page variables, and decision rules to stop/scale tests.",
+          "expand": { "[offer]": "marketing_offers" }
+        }
+      ]
+    },
+    {
+      "name": "YouTube & Content Creation",
+      "prompts": [
+        {
+          "title": "30-Day Content Plan: [niche]",
+          "text": "Create a 30-day YouTube content plan for the niche: [niche]. Provide: 12 long-form video ideas, 18 Shorts ideas, target viewer, hook promise, and how each idea ties into a series for binge-watching.",
+          "expand": { "[niche]": "youtube_niches" }
+        },
+        {
+          "title": "High-Retention Script Outline: [niche]",
+          "text": "Write a high-retention script outline for a YouTube video in the niche [niche]. Include: hook (0–15s), open loop, value bullets, pattern interrupts every 20–30s, mid-video re-hook, and closing CTA without sounding salesy.",
+          "expand": { "[niche]": "youtube_niches" }
+        },
+        {
+          "title": "Titles + Thumbnails (20 pairs): [niche]",
+          "text": "Generate 20 title + thumbnail concept pairs for [niche]. For each pair include: title, thumbnail text (max 4 words), visual composition, and the curiosity gap being leveraged.",
+          "expand": { "[niche]": "youtube_niches" }
+        },
+        {
+          "title": "Shorts Repurposing System: [niche]",
+          "text": "Build a Shorts repurposing system for [niche]. Provide: editing template, hook formulas, caption style, b-roll suggestions, posting cadence, and a tracking sheet structure (metrics + decisions).",
+          "expand": { "[niche]": "youtube_niches" }
+        },
+        {
+          "title": "YouTube SEO Pack: [niche]",
+          "text": "Create a YouTube SEO pack for [niche]. Output: 15 keyword phrases, an optimized description template, 20 tags, 5 pinned comment ideas, and chapter outline recommendations.",
+          "expand": { "[niche]": "youtube_niches" }
+        },
+        {
+          "title": "Audience Growth Strategy: [niche]",
+          "text": "Design an audience growth strategy for [niche]. Include: positioning, upload schedule, series strategy, collaboration ideas, community post plan, and 10 experiments to run in the next 30 days.",
+          "expand": { "[niche]": "youtube_niches" }
+        },
+        {
+          "title": "Retention Diagnostics + Fixes: [niche]",
+          "text": "Assume my YouTube channel is in [niche]. Create a retention diagnostics checklist (intro, pacing, clarity, storytelling, visuals, audio). Then propose 10 specific fixes and give examples of rewritten hooks.",
+          "expand": { "[niche]": "youtube_niches" }
+        }
+      ]
+    },
+    {
+      "name": "Coding & Development",
+      "prompts": [
+        {
+          "title": "Architecture Plan: [stack]",
+          "text": "Act as a senior engineer. Propose a production architecture for a project using [stack]. Include: modules, data flow, deployment approach, env configuration, secrets management, error handling, logging, monitoring, and scaling considerations.",
+          "expand": { "[stack]": "dev_stacks" }
+        },
+        {
+          "title": "API Design Review Checklist: [stack]",
+          "text": "Review an API design for [stack]. Provide best practices for: authentication, authorization, rate limiting, pagination, filtering, sorting, validation, error format, versioning, idempotency, and security headers.",
+          "expand": { "[stack]": "dev_stacks" }
+        },
+        {
+          "title": "Debug & Triage Plan: [stack]",
+          "text": "Create a systematic debug plan for an issue in [stack]. Include: reproduction steps, logging strategy, isolation approach, hypotheses, metrics to inspect, rollback plan, and how to write a post-mortem.",
+          "expand": { "[stack]": "dev_stacks" }
+        },
+        {
+          "title": "Performance Optimization Plan: [stack]",
+          "text": "Provide a performance optimization plan for [stack]. Cover: profiling tools, database indexing, caching strategy, payload reduction, N+1 fixes, async jobs, CDN usage, and performance budgets.",
+          "expand": { "[stack]": "dev_stacks" }
+        },
+        {
+          "title": "Security Hardening Checklist: [stack]",
+          "text": "Create a security hardening checklist for [stack]. Include: input validation, XSS/CSRF, auth/session handling, secrets, dependency scanning, SSRF, file upload security, logging sensitive data, and secure headers.",
+          "expand": { "[stack]": "dev_stacks" }
+        },
+        {
+          "title": "Testing Strategy: [stack]",
+          "text": "Design a testing strategy for [stack]. Include: unit, integration, contract, end-to-end tests; test data management; mocking guidelines; CI pipeline steps; and coverage goals with realistic tradeoffs.",
+          "expand": { "[stack]": "dev_stacks" }
+        },
+        {
+          "title": "Refactor Plan (Safe + Incremental): [stack]",
+          "text": "Write an incremental refactor plan for a legacy codebase in [stack]. Include: risk assessment, strangler pattern options, feature flags, regression test plan, milestone breakdown, and measurable success criteria.",
+          "expand": { "[stack]": "dev_stacks" }
+        }
+      ]
+    },
+    {
+      "name": "Design & Branding",
+      "prompts": [
+        {
+          "title": "Creative Brief Generator: [project]",
+          "text": "Write a professional creative brief for [project]. Include: background, goals, target audience, message hierarchy, tone, constraints, deliverables, timeline, and acceptance criteria.",
+          "expand": { "[project]": "design_projects" }
+        },
+        {
+          "title": "Brand Identity System Outline: [project]",
+          "text": "Create a brand identity system outline for [project]. Provide: brand values, personality, color palette rationale, typography pairing, imagery direction, icon style, and 10 practical usage examples.",
+          "expand": { "[project]": "design_projects" }
+        },
+        {
+          "title": "UI Critique (Heuristics + UX): [project]",
+          "text": "Critique [project] using usability heuristics. Provide: top 10 issues, severity, user impact, and recommended fixes. Include accessibility notes (contrast, focus states, motion).",
+          "expand": { "[project]": "design_projects" }
+        },
+        {
+          "title": "Design System Starter (Tokens + Components): [project]",
+          "text": "Create a starter design system for [project]. Include: spacing scale, typography scale, color tokens (light/dark), component list, states, and naming conventions for engineers/designers.",
+          "expand": { "[project]": "design_projects" }
+        },
+        {
+          "title": "Ad Creative Concepts (10): [project]",
+          "text": "Generate 10 ad creative concepts for [project]. For each: headline, visual concept, supporting copy, CTA, and why it will work psychologically.",
+          "expand": { "[project]": "design_projects" }
+        },
+        {
+          "title": "Pitch Deck Structure + Copy: [project]",
+          "text": "Create a pitch deck structure for [project]. Provide slide-by-slide titles, key bullets, and short speaker notes. Keep it crisp and investor-friendly.",
+          "expand": { "[project]": "design_projects" }
+        },
+        {
+          "title": "Brand Guidelines (One Page): [project]",
+          "text": "Write a one-page brand guidelines document for [project]. Include: logo usage rules, spacing, minimum sizes, color usage, typography rules, imagery do/don’t, and brand voice summary.",
+          "expand": { "[project]": "design_projects" }
+        }
+      ]
+    },
+    {
+      "name": "Business & Productivity",
+      "prompts": [
+        {
+          "title": "OKRs Drafting: [scenario]",
+          "text": "Draft OKRs for [scenario]. Provide 1 objective and 4 measurable key results, plus initiatives and weekly leading indicators. Ensure KR metrics are unambiguous and realistic.",
+          "expand": { "[scenario]": "business_scenarios" }
+        },
+        {
+          "title": "Decision Memo (1–2 pages): [scenario]",
+          "text": "Write a decision memo for [scenario]. Include: context, problem, options considered, recommended decision, pros/cons, risks, mitigation, timeline, owners, and success metrics.",
+          "expand": { "[scenario]": "business_scenarios" }
+        },
+        {
+          "title": "SOP Builder: [scenario]",
+          "text": "Create a step-by-step SOP for [scenario]. Include: purpose, scope, roles, tools, prerequisites, step list with checkpoints, quality control, and escalation paths.",
+          "expand": { "[scenario]": "business_scenarios" }
+        },
+        {
+          "title": "Meeting Agenda + Notes Template: [scenario]",
+          "text": "Create a meeting agenda and notes template for [scenario]. Include: goals, pre-reads, time-boxed agenda, decision log, action items format, and follow-up email draft.",
+          "expand": { "[scenario]": "business_scenarios" }
+        },
+        {
+          "title": "KPI Dashboard Definition: [scenario]",
+          "text": "Define a KPI dashboard for [scenario]. List core KPIs, definitions, formulas, data sources, update frequency, and how to interpret changes. Include 5 actionable alerts.",
+          "expand": { "[scenario]": "business_scenarios" }
+        },
+        {
+          "title": "Prioritization Framework: [scenario]",
+          "text": "Create a prioritization framework for [scenario]. Include scoring criteria (impact, effort, confidence, risk), a simple scoring table, and examples of how to rank 10 tasks.",
+          "expand": { "[scenario]": "business_scenarios" }
+        },
+        {
+          "title": "Communication Plan: [scenario]",
+          "text": "Build a communication plan for [scenario]. Include: stakeholders, channels, cadence, key messages, FAQ, and a short update template for weekly reporting.",
+          "expand": { "[scenario]": "business_scenarios" }
+        }
+      ]
+    },
+    {
+      "name": "Freelancing",
+      "prompts": [
+        {
+          "title": "Client Proposal (High-Converting): [service]",
+          "text": "Write a client proposal for [service]. Include: summary, outcomes, scope, deliverables, timeline, assumptions, pricing options (3 tiers), risk management, and next steps. Keep it concise and professional.",
+          "expand": { "[service]": "freelance_services" }
+        },
+        {
+          "title": "Discovery Questions (Deep + Practical): [service]",
+          "text": "Create a discovery questionnaire for [service]. Provide 25 questions grouped by goals, constraints, audience, brand, technical requirements, success metrics, and approvals.",
+          "expand": { "[service]": "freelance_services" }
+        },
+        {
+          "title": "Scope of Work (SOW) Template: [service]",
+          "text": "Draft a scope of work for [service]. Include: scope, out-of-scope, milestones, acceptance criteria, revision policy, dependencies, and payment terms.",
+          "expand": { "[service]": "freelance_services" }
+        },
+        {
+          "title": "Pricing Strategy + Packaging: [service]",
+          "text": "Create pricing packages for [service]. Provide: 3 packages, value-based justification, what to upsell, and how to present pricing to reduce negotiation.",
+          "expand": { "[service]": "freelance_services" }
+        },
+        {
+          "title": "Client Onboarding Checklist: [service]",
+          "text": "Create a client onboarding checklist for [service]. Include: assets to collect, access requests, kickoff agenda, timeline alignment, communication norms, and first-week deliverables.",
+          "expand": { "[service]": "freelance_services" }
+        },
+        {
+          "title": "Boundary Setting + Communication Scripts: [service]",
+          "text": "Write 10 professional scripts to set boundaries for [service] (scope creep, late payments, urgent requests, extra revisions, weekend messages). Keep tone firm but friendly.",
+          "expand": { "[service]": "freelance_services" }
+        },
+        {
+          "title": "Testimonial Request Sequence: [service]",
+          "text": "Write a testimonial request sequence for [service]. Include: initial request message, follow-up, suggested questions, and a short LinkedIn recommendation template.",
+          "expand": { "[service]": "freelance_services" }
+        }
+      ]
+    },
+    {
+      "name": "Automation",
+      "prompts": [
+        {
+          "title": "Workflow Design (Step-by-Step): [workflow]",
+          "text": "Design an automation workflow for: [workflow]. Provide: trigger, data needed, tools involved, step sequence, branching logic, error handling, retries, and logging. Include a simple diagram description.",
+          "expand": { "[workflow]": "automation_use_cases" }
+        },
+        {
+          "title": "Integration Mapping + Data Schema: [workflow]",
+          "text": "For [workflow], map integrations and define a minimal data schema. Provide: fields, types, validation rules, deduplication strategy, and an example payload.",
+          "expand": { "[workflow]": "automation_use_cases" }
+        },
+        {
+          "title": "Monitoring + Alerting Plan: [workflow]",
+          "text": "Create a monitoring plan for [workflow]. Include: success metrics, failure modes, alert thresholds, escalation policy, and a weekly health report template.",
+          "expand": { "[workflow]": "automation_use_cases" }
+        },
+        {
+          "title": "Security & Privacy Review: [workflow]",
+          "text": "Review [workflow] for security and privacy. Include: data classification, least privilege access, token storage, audit logs, PII handling, retention policy, and threat scenarios (abuse, leakage, spoofing).",
+          "expand": { "[workflow]": "automation_use_cases" }
+        },
+        {
+          "title": "Automation QA Checklist: [workflow]",
+          "text": "Write a QA checklist for [workflow]. Include: test cases, edge cases, rate limits, idempotency, rollback, and how to validate data accuracy.",
+          "expand": { "[workflow]": "automation_use_cases" }
+        },
+        {
+          "title": "SOP for Running the Automation: [workflow]",
+          "text": "Create an SOP to operate and maintain [workflow]. Include: daily checks, incident response steps, how to pause/resume, and a change management checklist.",
+          "expand": { "[workflow]": "automation_use_cases" }
+        },
+        {
+          "title": "Optimization Ideas (Reduce Cost + Improve Reliability): [workflow]",
+          "text": "Provide 15 optimization ideas for [workflow] focusing on cost reduction, fewer failures, better observability, and faster execution.",
+          "expand": { "[workflow]": "automation_use_cases" }
+        }
+      ]
+    },
+    {
+      "name": "Social Media",
+      "prompts": [
+        {
+          "title": "Content Pillars + Hooks: [platform_topic]",
+          "text": "Create 5 content pillars for [platform_topic]. For each pillar: target audience, message goal, and 10 hook examples. Keep hooks platform-native and punchy.",
+          "expand": { "[platform_topic]": "social_platforms_topics" }
+        },
+        {
+          "title": "30-Day Posting Calendar: [platform_topic]",
+          "text": "Build a 30-day content calendar for [platform_topic]. Provide: daily post type, topic, angle, CTA, and what to measure. Include 4 weekly themes and repurposing notes.",
+          "expand": { "[platform_topic]": "social_platforms_topics" }
+        },
+        {
+          "title": "Caption Generator (10): [platform_topic]",
+          "text": "Write 10 captions for [platform_topic] with different tones: educational, story, controversial, humorous, minimalist, data-driven, behind-the-scenes, FAQ, testimonial, and challenge. Add CTAs.",
+          "expand": { "[platform_topic]": "social_platforms_topics" }
+        },
+        {
+          "title": "Hashtag + Keyword Strategy: [platform_topic]",
+          "text": "Create a hashtag/keyword strategy for [platform_topic]. Provide: 5 broad tags, 10 niche tags, 10 long-tail keywords, and rules for rotation and testing.",
+          "expand": { "[platform_topic]": "social_platforms_topics" }
+        },
+        {
+          "title": "Community Engagement Playbook: [platform_topic]",
+          "text": "Create a community engagement playbook for [platform_topic]. Include: daily routines, comment reply templates, community questions, and how to turn comments into content ideas.",
+          "expand": { "[platform_topic]": "social_platforms_topics" }
+        },
+        {
+          "title": "DM Outreach (Warm + Ethical): [platform_topic]",
+          "text": "Write ethical DM outreach scripts for [platform_topic]. Include: 3 openers, 3 follow-ups, qualification questions, and a soft CTA that avoids spammy language.",
+          "expand": { "[platform_topic]": "social_platforms_topics" }
+        },
+        {
+          "title": "Analytics Review + Next Actions: [platform_topic]",
+          "text": "Create an analytics review template for [platform_topic]. Include: weekly KPI definitions, how to diagnose underperformance, and a decision tree for what to try next.",
+          "expand": { "[platform_topic]": "social_platforms_topics" }
+        }
+      ]
+    },
+    {
+      "name": "AI Image Generation",
+      "prompts": [
+        {
+          "title": "Image Prompt (Product Shot): [style]",
+          "text": "Generate an AI image prompt for a product photo in the style: [style]. Include: subject, composition, lighting, lens/angle, background, props, mood, and negative prompts. Output in a single copy-ready prompt.",
+          "expand": { "[style]": "image_styles" }
+        },
+        {
+          "title": "Image Prompt (Brand Scene): [style]",
+          "text": "Create a brand storytelling image prompt in the style: [style]. Include: scene description, color palette, typography notes (if any), camera details, and negative prompts. Make it suitable for a hero section.",
+          "expand": { "[style]": "image_styles" }
+        },
+        {
+          "title": "Image Prompt (Character Design): [style]",
+          "text": "Write a character design prompt in the style: [style]. Include: character backstory cues, clothing, facial expression, pose, environment, lighting, and negative prompts. Keep it consistent and detailed.",
+          "expand": { "[style]": "image_styles" }
+        },
+        {
+          "title": "Image Prompt (Poster Layout): [style]",
+          "text": "Create a poster layout prompt in the style: [style]. Include: layout grid, focal point, headline area, supporting text area, texture, and negative prompts. Make it print-ready aesthetic.",
+          "expand": { "[style]": "image_styles" }
+        },
+        {
+          "title": "Image Prompt (Social Ad Creative): [style]",
+          "text": "Generate a social ad creative prompt in the style: [style]. Include: composition for 1:1 and 9:16 variants, space for copy, visual hierarchy, and negative prompts.",
+          "expand": { "[style]": "image_styles" }
+        },
+        {
+          "title": "Image Prompt (Background Pack): [style]",
+          "text": "Create 10 background-only prompt variations in the style: [style]. Each should be suitable behind product cutouts and include negative prompts to avoid text/artifacts.",
+          "expand": { "[style]": "image_styles" }
+        },
+        {
+          "title": "Image Prompt (Style Consistency Rules): [style]",
+          "text": "Write a style-consistency guide for generating a coherent image set in the style: [style]. Include: fixed tokens, allowed variations, camera rules, color rules, and common failure fixes.",
+          "expand": { "[style]": "image_styles" }
+        }
+      ]
+    },
+    {
+      "name": "AI Video Generation",
+      "prompts": [
+        {
+          "title": "Storyboard (8 scenes): [video_concept]",
+          "text": "Create an 8-scene storyboard for: [video_concept]. For each scene: duration, visual description, on-screen text, camera movement, and the purpose (hook, proof, CTA).",
+          "expand": { "[video_concept]": "video_concepts" }
+        },
+        {
+          "title": "Shot List + Camera Notes: [video_concept]",
+          "text": "Generate a detailed shot list for [video_concept]. Include: shot type, framing, movement, lighting notes, and what emotion/idea the shot communicates.",
+          "expand": { "[video_concept]": "video_concepts" }
+        },
+        {
+          "title": "Voiceover Script (30–45s): [video_concept]",
+          "text": "Write a 30–45 second voiceover script for [video_concept]. Include: hook, problem, solution, proof, and CTA. Keep it conversational and punchy.",
+          "expand": { "[video_concept]": "video_concepts" }
+        },
+        {
+          "title": "Retention Editing Plan: [video_concept]",
+          "text": "Create a retention-focused editing plan for [video_concept]. Include: pacing beats, pattern interrupts, text overlays, b-roll rules, sound design cues, and how to avoid dead air.",
+          "expand": { "[video_concept]": "video_concepts" }
+        },
+        {
+          "title": "Caption + Subtitle Style Guide: [video_concept]",
+          "text": "Create a subtitle/caption style guide for [video_concept]. Include: typography, animation style, placement, color rules, safe margins, and accessibility notes.",
+          "expand": { "[video_concept]": "video_concepts" }
+        },
+        {
+          "title": "B-Roll Ideas Bank (25): [video_concept]",
+          "text": "Generate 25 b-roll ideas for [video_concept]. Include: what to film, why it supports the story, and suggested transitions.",
+          "expand": { "[video_concept]": "video_concepts" }
+        },
+        {
+          "title": "Hook Variations (20): [video_concept]",
+          "text": "Write 20 unique hook variations for [video_concept]. Mix: curiosity hooks, contrarian hooks, problem-first, proof-first, and story hooks. Keep each under 12 words.",
+          "expand": { "[video_concept]": "video_concepts" }
+        }
+      ]
+    },
+    {
+      "name": "SEO & Blogging",
+      "prompts": [
+        {
+          "title": "Keyword Cluster + Intent Map: [keyword]",
+          "text": "Create a keyword cluster for: [keyword]. Provide: primary keyword, 15 supporting keywords, search intent for each (informational/commercial/transactional), and content type recommendations.",
+          "expand": { "[keyword]": "seo_topics" }
+        },
+        {
+          "title": "SEO Blog Outline (High Ranking): [keyword]",
+          "text": "Create an SEO-optimized blog outline for [keyword]. Include: H1, H2/H3 structure, key talking points, examples, and a section designed for featured snippets.",
+          "expand": { "[keyword]": "seo_topics" }
+        },
+        {
+          "title": "On-Page Optimization Checklist: [keyword]",
+          "text": "Provide an on-page SEO checklist for [keyword]. Include: title tag rules, meta description, headers, internal links, image alt text, schema ideas, and content depth requirements.",
+          "expand": { "[keyword]": "seo_topics" }
+        },
+        {
+          "title": "Meta Title + Description Pack (20): [keyword]",
+          "text": "Generate 20 meta title options and 20 meta description options for [keyword]. Keep titles under 60 characters and descriptions under 155 characters. Avoid clickbait; prioritize clarity and intent match.",
+          "expand": { "[keyword]": "seo_topics" }
+        },
+        {
+          "title": "Internal Linking Plan: [keyword]",
+          "text": "Create an internal linking plan for a site targeting [keyword]. Provide: hub page idea, spoke article ideas, anchor text variations, and linking rules to avoid cannibalization.",
+          "expand": { "[keyword]": "seo_topics" }
+        },
+        {
+          "title": "Content Refresh Strategy: [keyword]",
+          "text": "Create a content refresh strategy for an existing article about [keyword]. Include: what to update, what to remove, how to improve E-E-A-T, new sections to add, and how to measure improvement.",
+          "expand": { "[keyword]": "seo_topics" }
+        },
+        {
+          "title": "FAQ + Schema Suggestions: [keyword]",
+          "text": "Generate 12 FAQs for [keyword] and recommend schema markup types to add. Provide concise answers (2–3 sentences) optimized for quick parsing.",
+          "expand": { "[keyword]": "seo_topics" }
+        }
+      ]
+    }
+  ]
+}
